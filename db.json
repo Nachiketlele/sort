@@ -1,0 +1,13 @@
+{
+  "feeds": [
+    { "id": 1, "title": "BOOK 1", "description": "FULL STACK DEVELOPER PART-1","category":"Novel", "realese_year":2000 },
+    { "id": 2, "title": "BOOK 2", "description": "FULL STACK DEVELOPER PART-2","category":"Cartoon", "realese_year":2022 },
+    { "id": 3, "title": "BOOK 3", "description": "FULL STACK DEVELOPER PART-3","category":"Novel", "realese_year":2022 },
+    { "id": 4, "title": "BOOK 4", "description": "FULL STACK DEVELOPER PART-4","category":"Cartoon", "realese_year":2014 },
+    { "id": 5, "title": "BOOK 5", "description": "FULL STACK DEVELOPER PART-5","category":"Novel", "realese_year":2022 },
+    { "id": 6, "title": "BOOK 6", "description": "FULL STACK DEVELOPER PART-6","category":"Cartoon", "realese_year":2010 },
+    { "id": 7, "title": "BOOK 7", "description": "FULL STACK DEVELOPER PART-7","category":"Novel", "realese_year":2028 },
+    { "id": 8, "title": "BOOK 8", "description": "FULL STACK DEVELOPER PART-8","category":"Cartoon", "realese_year":2022 },
+    { "id": 9, "title": "BOOK 9", "description": "FULL STACK DEVELOPER PART-9","category":"Novel", "realese_year":2022 }
+  ]
+}

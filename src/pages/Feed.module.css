@@ -1,0 +1,10 @@
+.div{
+    width: 100%;
+    border: 1px solid red;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 30px;
+}
+.divs{
+    display: flex;
+}
